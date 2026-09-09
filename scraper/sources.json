@@ -1,0 +1,11 @@
+{
+  "reddit": [
+    { "name": "r/sweepstakes", "subreddit": "sweepstakes" },
+    { "name": "r/contests", "subreddit": "contests" },
+    { "name": "r/giveaways", "subreddit": "giveaways" },
+    { "name": "r/gamegiveaways", "subreddit": "gamegiveaways" }
+  ],
+  "rss": [
+    { "name": "Online-Sweepstakes.com", "url": "https://www.online-sweepstakes.com/feed/" }
+  ]
+}
